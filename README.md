@@ -1,0 +1,2 @@
+# Identifying-Latent-Emotional-Stress-Through-Multi-sensor-Physiological-Signal-Correlation
+AI-based wearable health monitoring system using ESP32-S3 and multiple sensors to monitor heart rate, SpO₂, tremors, and stress levels in real time. The system uses AI-based pattern recognition to detect stress-induced and neurological tremors, enabling continuous monitoring, early diagnosis, and remote healthcare support.
